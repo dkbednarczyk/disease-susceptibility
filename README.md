@@ -5,3 +5,7 @@ Data taken from the CDC and HHS Children's Bureau:
 - U.S. Department of Health & Human Services, Administration for Children & Families, Children's Bureau Child Population Data for the year 2021. Accessed at https://cwoutcomes.acf.hhs.gov/cwodatasite/population/index/.
 
 Exported datasets were filtered to be easily imported as R dataframes.
+
+## Plots
+![Childhood Cancer Incidence by Region](./plots/bar-graph.png)
+![Childhood Cancer Incidence by State](./plots/map.png)
